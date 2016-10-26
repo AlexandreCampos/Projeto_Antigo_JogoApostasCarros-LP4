@@ -1,4 +1,4 @@
-# Projeto_Antigo_JogoApostasCarros-LP4-
+# Projeto_Antigo_JogoApostasCarros-LP4
 
  * Jogo de Carros (Simulação de corrida de carros).
  * Jogador aposta em carros, e jogo mostra carro que ganhou, de acordo com caracteristicas dos carros e pistas.
