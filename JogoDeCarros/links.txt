@@ -1,0 +1,18 @@
+sobre carros:
+http://www.gamevicio.com/i/topicos/11/11430-melhor-carro/index.html
+
+imagens:
+http://javafree.uol.com.br/topic-855350-Imagem-no-NetBeans.html
+http://netbeans.org/kb/docs/java/gui-image-display_pt_BR.html
+
+Interface Gráfica:
+http://javaelinux.wordpress.com/2010/04/08/como-usar-um-jradiobutton-botao-de-selecao-com-banco-de-dados-no-netbeans/
+http://javafree.uol.com.br/topic-884645-Como-fechar-uma-janela-sem-fechar-toda-a-aplicacao.html
+http://www.guj.com.br/java/52443-jtextfield-como-pegar-texto-em-outra-classe
+http://www.arquivodecodigos.net/dicas/java-substituindo-texto-em-um-jtextarea-533.html
+http://scriptbrasil.com.br/forum/index.php?s=2cbd18e058b4af6b8a6168ce23b0e2e8&showtopic=78427&pid=352959&mode=threaded&start=
+http://www.guj.com.br/java/62147-textfield-dentro-de-um-loop
+http://www.arquivodecodigos.net/dicas/java-definindo-o-texto-de-um-jtextfield-via-codigo-1448.html
+
+
+

@@ -1,0 +1,14 @@
+Requisitos regulatórios:
+
+ - equipamentos e características dos carros afetam desempenho;
+ - erros dos pilotos afetam desempenho;
+ - trechos específicos dos pilotos afetam desempenhos;
+ - banco de dados armazena carros;
+ - arquivos guardam informação dos jogadores;
+
+
+Requisitos funcionais:
+
+ - curvas mais difíceis geram erro do piloto em maior grau;
+ - carros devem ter motor, freios, rodas, etc (obrigatoriamente);
+ - corridas são divididas em trechos e cada trecho define situação atual dos competidores;
