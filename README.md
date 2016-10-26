@@ -5,3 +5,7 @@
  * Dados dos carros e pistas são salvos e carregados em BDs.
  * Dados dos jogadores são salvos e carregados em arquivos.
  * Threads são usados nas simulações das corridas.
+
+Projeto antigo:
+ - Feito ainda sem conceitos de arquitetura MVC
+ - Nomes de váriaveis não tão claros
